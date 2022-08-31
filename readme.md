@@ -14,6 +14,8 @@ Since flexbox is a whole module and not a single property, it involves a lot of 
 
 
 ## Resources
-**Learn flexbox by playing Games**
-[Flexbox Defence](http://www.flexboxdefense.com/)
-[Flexbox Froggy](https://flexboxfroggy.com/)
+**Learn Flexbox by playing Games**
+
+- [Flexbox Defence](http://www.flexboxdefense.com/)
+
+- [Flexbox Froggy](https://flexboxfroggy.com/)
