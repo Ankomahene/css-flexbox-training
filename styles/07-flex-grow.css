@@ -1,0 +1,16 @@
+/* 
+This defines the ability for a flex item to grow if necessary.
+*/
+
+.card {
+    display: flex;
+}
+
+.item-2 {
+    flex-grow: 4;
+    /* default 0 */
+}
+
+.item-3 {
+    flex-grow: 2;
+}

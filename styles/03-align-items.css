@@ -1,0 +1,21 @@
+/* 
+This defines the default behavior for how flex items are laid out along the cross axis on the current line.
+align-items: stretch | flex-start | flex-end | center | baseline | first baseline | last baseline | start | end | self-start | self-end ; 
+*/
+
+.card {
+    display: flex;
+    /* align-items: stretch; */
+    /* align-items: flex-start; */
+    /* align-items: flex-end; */
+    /* align-items: center; */
+    /* align-items: baseline; */
+}
+
+.item-1 h3 {
+    font-size: 3rem;
+}
+
+.item-2 {
+    padding-top: 4rem;
+}

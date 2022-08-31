@@ -1,0 +1,21 @@
+/* 
+This defines the alignment along the main axis.
+justify-content: flex-start | flex-end | center | space-between | space-around | space-evenly | start | end | left | right; 
+*/
+
+.card {
+    display: flex;
+    /* flex-direction: row-reverse; */
+    /* ---------------------- */
+    justify-content: flex-start;
+    /* justify-content: flex-end; */
+    /* justify-content: center; */
+    /* justify-content: space-around; */
+    /* justify-content: space-between; */
+    /* justify-content: space-evenly; */
+    /* justify-content: start; */
+    /* justify-content: end; */
+    /* justify-content: left; */
+    /* justify-content: right; */
+
+}

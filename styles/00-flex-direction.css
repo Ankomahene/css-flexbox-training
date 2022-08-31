@@ -1,0 +1,16 @@
+/* 
+    flex-direction sets the direction of he main axis
+    
+    row (default): left to right;
+    row-reverse: right to left;
+    column: top to bottom
+    column-reverse: bottom to top
+*/
+
+.card {
+    display: flex;
+    flex-direction: row;
+    /* flex-direction: row-reverse; */
+    /* flex-direction: column; */
+    /* flex-direction: column-reverse; */
+}

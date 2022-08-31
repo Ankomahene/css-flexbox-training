@@ -1,0 +1,18 @@
+.card {
+    display: flex;
+    align-items: flex-start;
+}
+
+.item-1 {
+    align-self: flex-end;
+}
+
+.item-2 {
+    min-height: 60px;
+    align-self: center;
+}
+
+.item-3 {
+    min-height: 100px;
+    align-self: flex-start;
+}

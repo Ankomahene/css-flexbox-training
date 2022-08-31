@@ -1,0 +1,13 @@
+/* 
+This defines the ability for a flex item to shrink if necessary.
+NB: Negative numbers are invalid
+*/
+
+.card {
+    display: flex;
+}
+
+.item-1 {
+    flex-shrink: 3;
+    /* default 1 */
+}
